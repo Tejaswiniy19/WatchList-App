@@ -1,0 +1,83 @@
+name: tejs_app
+description:  A Netflix-style Flutter app with games and videos.
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  youtube_player_iframe: ^5.2.2
+  connectivity_plus: ^5.0.0
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/Anchorman.jpg
+    - assets/images/Better Call Saul.webp
+    - assets/images/baking_basics.jpeg
+    - assets/images/black_mirror.jpg
+    - assets/images/coursera.webp
+    - assets/images/cyberpunk-2077.jpg
+    - assets/images/dinner.jpeg
+    - assets/images/god-of-war-ragnarok-.jpg
+    - assets/images/Hiit_workout.jpeg
+    - assets/images/horizon.jpeg
+    - assets/images/khanAcademy.png
+    - assets/images/meditation.jpg
+    - assets/images/mit_ocw.jpeg
+    - assets/images/pasta.jpeg
+    - assets/images/quick_and_easy.jpeg
+    - assets/images/TED_Talks.jpg
+    - assets/images/Borat.jpeg
+    - assets/images/The_Last_of_Us.jpg
+    - assets/images/vegetarian.jpeg
+    - assets/images/yoga.jpeg
+    - assets/images/Breaking Bad.jpg
+    - assets/images/dark.jpg
+    - assets/images/Die Hard.jpg
+    - assets/images/friends.jpg
+    - assets/images/Game of Thrones.jpg
+    - assets/images/House of Cards.jpg
+    - assets/images/Inception.webp
+    - assets/images/Interstellar.jpg
+    - assets/images/Mindhunter.jpg
+    - assets/images/Money Heist.jpg
+    - assets/images/Narcos.webp
+    - assets/images/Orange Is the New Black.webp
+    - assets/images/ozark.jpg
+    - assets/images/Pulp Fiction.jpg
+    - assets/images/Sherlock.jpg
+    - assets/images/Squid Game.jpg
+    - assets/images/Step Brothers.jpg
+    - assets/images/stranger.jpg
+    - assets/images/Superbad.jpg
+    - assets/images/Terminator 2.jpg
+    - assets/images/The Avengers.jpg
+    - assets/images/The Crown.png
+    - assets/images/The Dark Knight.webp
+    - assets/images/The Matrix.webp
+    - assets/images/The Umbrella Academy.jpg
+    - assets/images/the-witcher.jpg
+    - assets/images/Avatar.jpg
+    - assets/images/Black_Panther.jpg
+    - assets/images/The_Flash.jpg
+    - assets/images/indiana_jones.jpeg
+    - assets/images/mission_impossible.jpeg
+    - assets/images/john_wick.jpeg
+    - assets/images/dune.jpeg
+    - assets/images/batman.jpeg
+    - assets/images/fantastic_beasts.jpeg
+    
