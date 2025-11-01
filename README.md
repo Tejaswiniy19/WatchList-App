@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🎬 Netflix Clone App
 
 <div align="center">
